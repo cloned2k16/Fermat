@@ -15,5 +15,8 @@
 ...   
 
 ### A<sup>4</sup> &ne; B<sup>4</sup> + C<sup>4</sup>  
+...  
+  
+## A<sup>1</sup> &ne; B<sup>1</sup> + C<sup>1</sup>  
+( prime numbers .. )  
 
- 
