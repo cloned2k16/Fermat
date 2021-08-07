@@ -30,6 +30,7 @@ and so forth ..
 ### A<sup>4</sup> &ne; B<sup>4</sup> + C<sup>4</sup>  
 ####  9<sup>4</sup> - ( 8<sup>4</sup> + 7<sup>4</sup> ) = 64  
 ####  (&gamma;9)<sup>4</sup> - ( (&gamma;8)<sup>4</sup> + (&gamma;7)<sup>4</sup> ) = (&gamma;<sup>4</sup>)64  
+####  (&gamma;13)<sup>4</sup> - ( (&gamma;12)<sup>4</sup> + (&gamma;8)<sup>4</sup> ) + (&gamma;7)<sup>4</sup> ) + (&gamma;6)<sup>4</sup> ) = (&gamma;<sup>4</sup>)32  
 ...  
   
 ## A<sup>1</sup> &ne; B<sup>1</sup> + C<sup>1</sup>  
