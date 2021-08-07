@@ -6,10 +6,10 @@ powers of number are just like natural numbers, (period)
 ![making sense](fermat1.jpg)
 
 in natural numbers, you can sum any of them to produce any other, (of course)    
-just because in the domain of the power of 1 , leaves all gaps equal to 1  
+just because in the domain of the power of 1 , leaves all gaps equal to 0  
   
-in the domain of power of two,  you are summing squares which leaves gaps of 1,3,5,7 ...  
-in the domain of power of three,  you are summing cubes   which leaves gaps of 1,7,19,37 ...  
+in the domain of power of two,  you are summing squares which leaves behind gaps of 1,3,5,7 ...  
+in the domain of power of three,  you are summing cubes which leaves behind gaps of 1,7,19,37 ...  
 and so forth ..  
 
 ## A<sup>n</sup> &ne; B<sup>n</sup> + C<sup>n</sup>  
