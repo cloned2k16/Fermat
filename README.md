@@ -36,7 +36,7 @@ then ..
 so,,  
 ####  (&gamma;9)<sup>3</sup> - ( (&gamma;8)<sup>8</sup> + (&gamma;6)<sup>3</sup> ) = (&gamma;<sup>3</sup>)1  
 then ..  
-####  (&gamma;9)<sup>3</sup> - ( (&gamma;8)<sup>8</sup> + (&gamma;6)<sup>3</sup> + (&gamma;1)<sup>3</sup>1 ) =  0 
+####  (&gamma;9)<sup>3</sup> - ( (&gamma;8)<sup>8</sup> + (&gamma;6)<sup>3</sup> + (&gamma;1)<sup>3</sup> ) =  0 
 ...   
 
 ### A<sup>4</sup> &ne; B<sup>4</sup> + C<sup>4</sup>  
