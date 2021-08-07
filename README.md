@@ -34,4 +34,4 @@ and so forth ..
 ...  
   
 ## A<sup>1</sup> &ne; B<sup>1</sup> + C<sup>1</sup>  
-( prime numbers .. )  
+( prime numbers .. guess why .. )  
