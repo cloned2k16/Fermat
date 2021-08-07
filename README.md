@@ -35,3 +35,8 @@ and so forth ..
   
 ## A<sup>1</sup> &ne; B<sup>1</sup> + C<sup>1</sup>  
 ( prime numbers .. guess why .. )  
+
+
+##### some possible reppresentations of cubes in 2D domain  
+![making sense](fermat2.jpg)  
+
