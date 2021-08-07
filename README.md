@@ -17,18 +17,21 @@ and so forth ..
 
 ### A<sup>2</sup> &ne; B<sup>2</sup> + C<sup>2</sup>  
 ####  5<sup>2</sup> - ( 4<sup>2</sup> + 3<sup>2</sup> ) = 0  
-
+so,,  
 ####  (&gamma;5)<sup>2</sup> - ( (&gamma;4)<sup>2</sup> + (&gamma;3)<sup>2</sup> ) = 0  
 ...  
   
 ### A<sup>3</sup> &ne; B<sup>3</sup> + C<sup>3</sup>  
 ####  9<sup>3</sup> - ( 8<sup>3</sup> + 6<sup>3</sup> ) = 1  
+so,,  
 ####  (&gamma;9)<sup>3</sup> - ( (&gamma;8)<sup>8</sup> + (&gamma;6)<sup>3</sup> ) = (&gamma;<sup>3</sup>)1  
+then ..  
 ####  (&gamma;9)<sup>3</sup> - ( (&gamma;8)<sup>8</sup> + (&gamma;6)<sup>3</sup> + (&gamma;1)<sup>3</sup>1 ) =  0 
 ...   
 
 ### A<sup>4</sup> &ne; B<sup>4</sup> + C<sup>4</sup>  
 ####  9<sup>4</sup> - ( 8<sup>4</sup> + 7<sup>4</sup> ) = 64  
+so,,  
 ####  (&gamma;9)<sup>4</sup> - ( (&gamma;8)<sup>4</sup> + (&gamma;7)<sup>4</sup> ) = (&gamma;<sup>4</sup>)64  
 ####  (&gamma;13)<sup>4</sup> - ( (&gamma;12)<sup>4</sup> + (&gamma;8)<sup>4</sup> ) + (&gamma;7)<sup>4</sup> ) + (&gamma;6)<sup>4</sup> ) = (&gamma;<sup>4</sup>)32  
 ...  
