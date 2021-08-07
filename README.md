@@ -2,7 +2,9 @@
 #### very short explanation  
 powers of number are just like natural numbers, (period)  
 (as if they had been written in the form n<sup>1</sup>)  
-  
+
+![making sense](fermat1.jpg)
+
 in natural numbers, you can sum any of them to produce any other, (of course)    
 just because in the domain of the power of 1 , leaves all gaps equal to 1  
   
@@ -31,4 +33,3 @@ and so forth ..
   
 ## A<sup>1</sup> &ne; B<sup>1</sup> + C<sup>1</sup>  
 ( prime numbers .. )  
-
