@@ -8,9 +8,10 @@ powers of number are just like natural numbers, (period)
 in natural numbers, you can sum any of them to produce any other, (of course)    
 just because in the domain of the power of 1 , leaves all gaps equal to 0  
   
-in the domain of power of two,  you are summing squares which leaves behind gaps of 1,3,5,7 ...  
+in the domain of power of two,  you are summing squares which leaves behind gaps of 3,5,7,9 ...  
 in the domain of power of three,  you are summing cubes which leaves behind gaps of 7,19,37,61 ...  
 and so forth ..  
+( while for all and from 0 is always 1 )  
 
 ## point is .. 
 ##### it's a geometrical progression so it's proven just like for prime numbers 
