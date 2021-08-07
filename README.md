@@ -12,6 +12,11 @@ in the domain of power of two,  you are summing squares which leaves behind gaps
 in the domain of power of three,  you are summing cubes which leaves behind gaps of 1,7,19,37 ...  
 and so forth ..  
 
+## point is .. 
+##### it's a geometrical progression so it's proven just like for prime numbers 
+the initial pattern,  will just repeat itself over n over again ..
+##   
+
 ## A<sup>n</sup> &ne; B<sup>n</sup> + C<sup>n</sup>  
 ... 
 
