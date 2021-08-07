@@ -42,4 +42,4 @@ so,,
 
 ##### some possible reppresentations of cubes in 2D domain  
 ![making sense](fermat2.jpg)  
-
+https://cloned2k16.github.io/Fermat/
