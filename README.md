@@ -20,7 +20,9 @@ the initial pattern,  will just repeat itself over n over again ..
 
 ## A<sup>n</sup> &ne; B<sup>n</sup> + C<sup>n</sup>  
 ... 
-
+```javascript
+  let γ = any natural number including 0 if you like to ;)
+```
 ### A<sup>2</sup> &ne; B<sup>2</sup> + C<sup>2</sup>  
 ####  5<sup>2</sup> - ( 4<sup>2</sup> + 3<sup>2</sup> ) = 0  
 so,,  
