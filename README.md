@@ -24,6 +24,7 @@ and so forth ..
 ### A<sup>3</sup> &ne; B<sup>3</sup> + C<sup>3</sup>  
 ####  9<sup>3</sup> - ( 8<sup>3</sup> + 6<sup>3</sup> ) = 1  
 ####  (&gamma;9)<sup>3</sup> - ( (&gamma;8)<sup>8</sup> + (&gamma;6)<sup>3</sup> ) = (&gamma;<sup>3</sup>)1  
+####  (&gamma;9)<sup>3</sup> - ( (&gamma;8)<sup>8</sup> + (&gamma;6)<sup>3</sup> + (&gamma;1)<sup>3</sup>1 ) =  0 
 ...   
 
 ### A<sup>4</sup> &ne; B<sup>4</sup> + C<sup>4</sup>  
