@@ -24,6 +24,10 @@ the initial pattern,  will just repeat itself over n over again ..
 ####  5<sup>2</sup> - ( 4<sup>2</sup> + 3<sup>2</sup> ) = 0  
 so,,  
 ####  (&gamma;5)<sup>2</sup> - ( (&gamma;4)<sup>2</sup> + (&gamma;3)<sup>2</sup> ) = 0  
+and so ..  
+####  (&gamma;9)<sup>2</sup> - ( (&gamma;8)<sup>2</sup> + (&gamma;4)<sup>2</sup> ) = 1
+then ..  
+####  (&gamma;9)<sup>2</sup> - ( (&gamma;8)<sup>2</sup> + (&gamma;4)<sup>2</sup> + (&gamma;1)<sup>2</sup> ) = 0
 ...  
   
 ### A<sup>3</sup> &ne; B<sup>3</sup> + C<sup>3</sup>  
