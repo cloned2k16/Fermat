@@ -3,7 +3,7 @@
 powers of number are just like natural numbers, (period)  
 (as if they had been written in the form n<sup>1</sup>)  
 
-## The essence in just one single line ..
+## The essence in just one single line .. (γ5)2 - ( (γ4)2 + (γ3)2 ) = 0
 
 ![making sense](Tex2Img_1628426457.png)
 
