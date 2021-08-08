@@ -92,8 +92,8 @@ const   ND      				= 	undefined
 
     zX          = paramF('zoomX')
 	zY          = paramF('zoomY')
-	zoomX       = zX || 10
-    zoomY   	= zY || Math.pow(zoomX,1/10)/2
+	zoomX       = zX || 33
+    zoomY   	= zY ||  5 //Math.pow(zoomX,1/10)/2
     cX      	= 203
     cY      	= height -zoomX
 	max         = paramF('max') || 200
@@ -101,11 +101,11 @@ const   ND      				= 	undefined
 	ctx.font = "24px Georgia";
     ctx.fillStyle = "black";
     ctx.textAlign = "left";
-    ctx.fillText('Fermat last for ^3', 7,100);
+    ctx.fillText('Fermat last for ^3', 7,600);
 	ctx.font = "12px System";
     ctx.textAlign = "left";
-    ctx.fillText('zoom X = '+zoomX , 17,121);
-	ctx.fillText('zoom Y = '+zoomY , 17,131);
+    ctx.fillText('zoom X = '+zoomX , 17,626);
+	ctx.fillText('zoom Y = '+zoomY , 17,636);
 
 	var close=[]
 	,   q
