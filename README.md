@@ -3,7 +3,12 @@
 powers of number are just like natural numbers, (period)  
 (as if they had been written in the form n<sup>1</sup>)  
 
+## The essence in just one single line ..
+
+![making sense](Tex2Img_1628426457.png)
+
 ![making sense](fermat1.jpg)
+
 
 in natural numbers, you can sum any of them to produce any other, (of course)    
 just because in the domain of the power of 1 , leaves all gaps equal to 0  
