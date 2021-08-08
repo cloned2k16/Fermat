@@ -23,6 +23,12 @@ the initial pattern,  will just repeat itself over n over again ..
 ```javascript
   let γ = any natural number including 0 if you like to ;)
 ```
+  to make things further interesting and meaningful,  
+  you can set γ to any real number ..   
+  so .. eg.   1 = ( 0.2 * 4 )<sup>2</sup> + ( 0.2 * 3 )<sup>2</sup>  
+  ;)  
+   
+  
 ### A<sup>2</sup> &ne; B<sup>2</sup> + C<sup>2</sup>  
 ####  5<sup>2</sup> - ( 4<sup>2</sup> + 3<sup>2</sup> ) = 0  
 so,,  
