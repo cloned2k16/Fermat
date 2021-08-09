@@ -8,6 +8,7 @@ powers of number are just like natural numbers, (period)
 ![making sense](Tex2Img_1628426457.png)
 
 ### generalization ..
+![naturals eq](naturals.png)  
 ![squaqres eq](squares.png)  
 ![cubes eq](cubes.png)  
 ![tesseracts eq](tesseracts.png)  
