@@ -8,13 +8,9 @@ powers of number are just like natural numbers, (period)
 ![making sense](Tex2Img_1628426457.png)
 
 ### generalization ..
-![naturals eq](naturals.png)  
-![squaqres eq](squares.png)  
-![cubes eq](cubes.png)  
-![tesseracts eq](tesseracts.png)  
+![making sense](fermat1.png)  
 and so on ...  
 ##    
-![making sense](fermat1.jpg)
 
 
 in natural numbers, you can sum any of them to produce any other, (of course)    
